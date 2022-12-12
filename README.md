@@ -38,5 +38,5 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 
 ## Summary
 
-Based on the percentage alone, there would seem to be a positivity bias for reviews in the Vine Program (Vine(%51) vs. non-Vine(39)). However, the numbers of reviews is extremely skewed with the number of Vine reviewers being only 94, compared to the 40471 non-Vine reviewers. We could better answer this question as the data set grows and includes more Vine reviews.
+Based on the percentage alone, there would seem to be a positivity bias for reviews in the Vine Program (Vine(%51) vs. non-Vine(%39)). However, the numbers of reviews is extremely skewed with the number of Vine reviewers being only 94, compared to the 40471 non-Vine reviewers. We could better answer this question as the data set grows and includes more Vine reviews.
 
